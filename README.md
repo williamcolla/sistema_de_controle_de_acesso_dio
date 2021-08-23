@@ -1,1 +1,5 @@
-# sistema_de_controle_de_acesso_dio
+# diolive
+
+Api rest para gerenciamento de ponto e controle de acesso.
+
+Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
